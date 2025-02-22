@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 34,
+		"supported_formats": {
+			"min_inclusive": 15,
+			"max_inclusive": 34
+		},
+		"description": "§bAppplied §8Energistics§7 like §aMekanism§7 GUI\n1.21.1 v1.0 by Naloveyuki"
+	}
+}
